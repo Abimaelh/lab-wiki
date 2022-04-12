@@ -1,3 +1,3 @@
-# lab-wiki
+# Trueswell lab wiki
 
 * Test
