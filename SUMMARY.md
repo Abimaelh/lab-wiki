@@ -1,10 +1,8 @@
 ‌# Summary​
 ## Welcome
 
-* [Start here](docs/welcome.md)
-    * [Onboarding](docs/onboarding.md)   
-    * [Lab procedures](pages/lab-procedures.md)
-
+* [Welcome](docs/welcome.md)
+    * [FAQ](docs/faq/faq.md)
 ## Onboarding
 
 * [Onboarding](docs/onboarding.md)      
