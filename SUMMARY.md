@@ -9,4 +9,8 @@
 
 ## Lab procedures
 
-* [Lab procedures](pages/lab-procedures.md)
+* [Lab procedures](docs/lab-procedures.md)
+
+## FAQ
+
+* [FAQ](docs/faq.md)
