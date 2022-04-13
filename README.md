@@ -1,4 +1,4 @@
 # Trueswell lab wiki
 
-* [Onboarding](onboarding.md)
-* [Lab procedures](lab-procedures.md)
+* [Onboarding](pages/onboarding.md)
+* [Lab procedures](pages/lab-procedures.md)
