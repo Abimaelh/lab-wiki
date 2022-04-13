@@ -4,6 +4,9 @@
 * If you are a student at Penn or already have a Penn key and are new to the lab view our [onboarding procedure](welcome.md) for new members.
 * You can also view all available documents down below.
 
-{% content-ref url="faq/faq.md" %}
-[faq.md](faq/faq.md)
+{% content-ref url="docs/faq.md" %}
+[faq.md](docs/faq.md)
+{% endcontent-ref %} 
+{% content-ref url="docs/onboarding.md" %}
+[onboarding.md](docs/onboarding.md)
 {% endcontent-ref %}
