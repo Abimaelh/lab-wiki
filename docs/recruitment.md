@@ -16,4 +16,4 @@ Facebook Ads Manager is a unified ad creation tool that you can use to create an
 * Publish or save as draft: When you’re ready, select Publish or Close to save your draft.
 [_source_](https://www.facebook.com/business/help/282701548912119?id=649869995454285&ref=fbb_adsmanager_products)
 
-Remeber to log in using our RA profile, Penny Labra (ask lab manager for login info). To view our lab's ad objective and target audience, click here (You will need access to Penn Box).
+Remeber to log in using our RA profile, Penny Labra (ask lab manager for login info). To view our lab's ad objective and target audience, [click here](https://upenn.box.com/s/na437urczy2xrmxq7ig98dc29p3ga22a) (You will need access to Penn Box).
