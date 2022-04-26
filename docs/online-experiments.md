@@ -28,3 +28,7 @@ Use
 4.	Once signed in, return to the command prompt terminal and list your results files by typing `aws --profile penn s3 ls s3://pcibex.penn.collection.BUCKETNAME/USERNAME/EXPERIMENTNAME/`, replacing (only the first) penn with the value from step 7 above, `BUCKETNAME` with your group's bucket name (eg. florianslab), `USERNAME` with the exact username you use on upenn.pcibex.net (case-sensitive) and `EXPERIMENTNAME` with the exact name of your experiment (case-sensitive, make sure to insert a backslash character \ before any space character)
 5.	You can download all the CSV results files to your home folder by typing `aws --profile penn s3 cp s3://pcibex.penn.collection.BUCKETNAME/USERNAME/EXPERIMENTNAME/ ./ --recursive --exclude "*" --include "*.csv"` (applying the same substitutions as in the previous step)
 6. Use `"*.zip"` to download video or audio recordings.
+
+To analyze your data, you can create your own script or use this handy [R script](https://doc.pcibex.net/advanced-tutorial/12_examining-data.html) that Jérémy created.
+
+Learn more about [recruiting participants](recruitment.md) 
